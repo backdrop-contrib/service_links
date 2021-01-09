@@ -1,3 +1,9 @@
+IMPORTANT: project is inactive!
+------------------
+
+Work on this module port has been discontinued; we are instead using the Ridiculously Responsive Social Share Buttons module (https://backdropcms.org/project/rrssb).
+
+
 Service Links:
 ------------------
 Author and Drupal mantainer: Fabio Mucciante aka TheCrow (since the 2.x branch)
